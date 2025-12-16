@@ -1,4 +1,4 @@
-# Desafio de projeto: Abstraindo um bootcamp usando Orientação a Objetos em Java;
+# Desafio de projeto: Abstraindo um bootcamp usando Orientação a Objetos em Java
 
 
 ##  1. Abstração do domínio Bootcamp e modelagem dos seus atributos e métodos;
